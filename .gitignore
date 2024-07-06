@@ -1,0 +1,6 @@
+data/
+results/
+
+.py*
+.vscode
+**/__pycache__/**

@@ -1,0 +1,6 @@
+adabelief-tf
+numpy<2
+scikit-learn
+scipy
+tensorflow
+tqdm
