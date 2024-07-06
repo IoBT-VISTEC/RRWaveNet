@@ -1,4 +1,10 @@
-# RRWaveNet
+# RRWaveNet: A Compact End-to-End Multiscale Residual CNN for Robust PPG Respiratory Rate Estimation
+
+Official implementation of **RRWaveNet** from *IEEE Internet of Things Journal (IOTJ)*.
+
+**Paper authors**: Pongpanut Osathitporn, Guntitat Sawadwuthikul, Punnawish Thuwajit, Kawisara
+Ueafuea, Thee Mateepithaktham, Narin Kunaseth, Tanut Choksatchawathi, Proadpran Punyabukkana,
+Emmanuel Mignot, and Theerawit Wilaiprasitporn
 
 ## Abstract
 
