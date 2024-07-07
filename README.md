@@ -105,10 +105,13 @@ Valid options are
 - `--winsize`: Depends on the available data you prepared, we used `16`, `32`, and `64` for our
   experiments.
 
+> The implementation of AR is not provided in this repository. We recommend the reproducing steps
+> as defined in the original paper.
+
 When the experiment finishes, the average and standard deviation of the MAEs across all subjects
 will be printed.
 
-Should you encounter any issue or bug, please create an issue with details [here](https://github.com/IoBT-VISTEC/RRWaveNet).
+Should you encounter any issue or bug, please create an issue with details [here](https://github.com/IoBT-VISTEC/RRWaveNet/issues).
 
 ## Citation
 
